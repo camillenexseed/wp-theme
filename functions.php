@@ -1,5 +1,5 @@
 <?php
-  function test()
+  function test($str)
   {
-      return 'test';
+      return $str;
   }
